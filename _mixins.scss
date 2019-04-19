@@ -10,6 +10,11 @@
 @import "mixins/breakpoints";
 @import "mixins/image";
 @import "mixins/hover";
+@import "mixins/deprecate";
+@import "mixins/text-hide";
+@import "mixins/text-truncate";
+@import "mixins/text-emphasis";
+
 
 // // Layout
 @import "mixins/clearfix";
